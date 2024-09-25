@@ -40,5 +40,5 @@ búsqueda, navegación y manejo correcto del API.
 - Nosotras: Conoce mas sobre el equipo detrás de Cinema Girls
 - Contáctanos: Encuentra nuestras redes sociales o comunícate con nosotras
 
-🧩FASES DEL PROYECTO
-https://drive.google.com/file/d/1i3YxBjmbQEZYe-Llb1hNQPO9PndCIT4X/view?usp=sharing
+🧩FASES DEL PROYECTO:
+- https://drive.google.com/file/d/1i3YxBjmbQEZYe-Llb1hNQPO9PndCIT4X/view?usp=sharing
